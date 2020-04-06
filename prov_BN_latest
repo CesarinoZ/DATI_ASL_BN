@@ -1,0 +1,79 @@
+data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_provincia	sigla_provincia	Comune	lat	long	totale_casi
+6042020	ITA	15	Campania	62	Benevento	BN	Airola	41,05778997	14,56409597	5
+6042020	ITA	15	Campania	62	Benevento	BN	Amorosi	41,20314241	14,46534071	3
+6042020	ITA	15	Campania	62	Benevento	BN	Apice	41,12857866	14,95736290	2
+6042020	ITA	15	Campania	62	Benevento	BN	Apollosa	41,09039218	14,70300461	2
+6042020	ITA	15	Campania	62	Benevento	BN	Arpaia	41,03275667	14,55005492	0
+6042020	ITA	15	Campania	62	Benevento	BN	Arpaise	41,02238129	14,74890863	0
+6042020	ITA	15	Campania	62	Benevento	BN	Baselice	41,39120523	14,94057298	0
+6042020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	27
+6042020	ITA	15	Campania	62	Benevento	BN	Bonea	41,07893528	14,61078059	0
+6042020	ITA	15	Campania	62	Benevento	BN	Bucciano	41,08272809	14,57902822	1
+6042020	ITA	15	Campania	62	Benevento	BN	Buonalbergo	41,21869910	14,97388129	0
+6042020	ITA	15	Campania	62	Benevento	BN	Calvi	41,08616309	14,89947123	1
+6042020	ITA	15	Campania	62	Benevento	BN	Campolattaro	41,28949673	14,73692079	0
+6042020	ITA	15	Campania	62	Benevento	BN	Campoli del Monte Taburno	41,11396798	14,65831907	0
+6042020	ITA	15	Campania	62	Benevento	BN	Casalduni	41,25646500	14,68873786	0
+6042020	ITA	15	Campania	62	Benevento	BN	Castelfranco in Miscano	41,29088634	15,10062394	1
+6042020	ITA	15	Campania	62	Benevento	BN	Castelpagano	41,41742065	14,80900215	0
+6042020	ITA	15	Campania	62	Benevento	BN	Castelpoto	41,12872921	14,69863090	1
+6042020	ITA	15	Campania	62	Benevento	BN	Castelvenere	41,23129994	14,55523365	0
+6042020	ITA	15	Campania	62	Benevento	BN	Castelvetere in Val Fortore	41,43832974	14,93572133	0
+6042020	ITA	15	Campania	62	Benevento	BN	Cautano	41,14850692	14,61999239	0
+6042020	ITA	15	Campania	62	Benevento	BN	Ceppaloni	41,05536607	14,74683945	5
+6042020	ITA	15	Campania	62	Benevento	BN	Cerreto Sannita	41,29766346	14,58220084	0
+6042020	ITA	15	Campania	62	Benevento	BN	Circello	41,34851219	14,79222412	3
+6042020	ITA	15	Campania	62	Benevento	BN	Colle Sannita	41,38399170	14,85587732	0
+6042020	ITA	15	Campania	62	Benevento	BN	Cusano Mutri	41,34082517	14,50544487	5
+6042020	ITA	15	Campania	62	Benevento	BN	Dugenta	41,13959427	14,45420357	0
+6042020	ITA	15	Campania	62	Benevento	BN	Durazzano	41,05888670	14,45298556	0
+6042020	ITA	15	Campania	62	Benevento	BN	Faicchio	41,26742840	14,47103882	1
+6042020	ITA	15	Campania	62	Benevento	BN	Foglianise	41,15988914	14,68503951	1
+6042020	ITA	15	Campania	62	Benevento	BN	Foiano di Val Fortore	41,35343892	14,97791544	0
+6042020	ITA	15	Campania	62	Benevento	BN	Forchia	41,03109206	14,53093092	0
+6042020	ITA	15	Campania	62	Benevento	BN	Fragneto l'Abate	41,27524690	14,78018014	0
+6042020	ITA	15	Campania	62	Benevento	BN	Fragneto Monforte	41,23942609	14,75534762	0
+6042020	ITA	15	Campania	62	Benevento	BN	Frasso Telesino	41,14616309	14,53063615	0
+6042020	ITA	15	Campania	62	Benevento	BN	Ginestra degli Schiavoni	41,28167887	15,04709280	0
+6042020	ITA	15	Campania	62	Benevento	BN	Guardia Sanframondi	41,24594697	14,59088980	2
+6042020	ITA	15	Campania	62	Benevento	BN	Limatola	41,13476142	14,39738915	0
+6042020	ITA	15	Campania	62	Benevento	BN	Melizzano	41,16935753	14,49346601	1
+6042020	ITA	15	Campania	62	Benevento	BN	Moiano	41,08119962	14,53967098	1
+6042020	ITA	15	Campania	62	Benevento	BN	Molinara	41,31135236	14,91679765	0
+6042020	ITA	15	Campania	62	Benevento	BN	Montefalcone di Val Fortore	41,32459567	15,02324949	0
+6042020	ITA	15	Campania	62	Benevento	BN	Montesarchio	41,06904084	14,65137823	2
+6042020	ITA	15	Campania	62	Benevento	BN	Morcone	41,34827185	14,69327071	1
+6042020	ITA	15	Campania	62	Benevento	BN	Paduli	41,17636144	14,89843099	0
+6042020	ITA	15	Campania	62	Benevento	BN	Pago Veiano	41,23629132	14,87719478	3
+6042020	ITA	15	Campania	62	Benevento	BN	Pannarano	41,00356093	14,69529345	0
+6042020	ITA	15	Campania	62	Benevento	BN	Paolisi	41,03448185	14,57330251	6
+6042020	ITA	15	Campania	62	Benevento	BN	Paupisi	41,20409287	14,64798894	2
+6042020	ITA	15	Campania	62	Benevento	BN	Pesco Sannita	41,24212503	14,82393032	1
+6042020	ITA	15	Campania	62	Benevento	BN	Pietraroja	41,35210050	14,57275060	0
+6042020	ITA	15	Campania	62	Benevento	BN	Pietrelcina	41,20041018	14,84647120	0
+6042020	ITA	15	Campania	62	Benevento	BN	Ponte	41,22380235	14,68397512	0
+6042020	ITA	15	Campania	62	Benevento	BN	Pontelandolfo	41,29411313	14,68015769	1
+6042020	ITA	15	Campania	62	Benevento	BN	Puglianello	41,22899613	14,45433593	0
+6042020	ITA	15	Campania	62	Benevento	BN	Reino	41,29103749	14,82270231	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Bartolomeo in Galdo	41,41987733	15,03085960	1
+6042020	ITA	15	Campania	62	Benevento	BN	San Giorgio del Sannio	41,10489298	14,87711276	6
+6042020	ITA	15	Campania	62	Benevento	BN	San Giorgio La Molara	41,27017353	14,95264434	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Leucio del Sannio	41,08438705	14,76171391	1
+6042020	ITA	15	Campania	62	Benevento	BN	San Lorenzello	41,27014412	14,53840944	1
+6042020	ITA	15	Campania	62	Benevento	BN	San Lorenzo Maggiore	41,23845167	14,62542823	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Lupo	41,26811298	14,63850905	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Marco dei Cavoti	41,31728475	14,87364940	1
+6042020	ITA	15	Campania	62	Benevento	BN	San Martino Sannita	41,05630188	14,83522257	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Nazzaro	41,05288231	14,85853616	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Nicola Manfredi	41,09508809	14,84184260	0
+6042020	ITA	15	Campania	62	Benevento	BN	San Salvatore Telesino	41,23540004	14,49822876	2
+6042020	ITA	15	Campania	62	Benevento	BN	Santa Croce del Sannio	41,39009832	14,73704084	1
+6042020	ITA	15	Campania	62	Benevento	BN	Sant'Agata de' Goti	41,10082146	14,49517099	2
+6042020	ITA	15	Campania	62	Benevento	BN	Sant'Angelo a Cupolo	41,07906250	14,80243462	2
+6042020	ITA	15	Campania	62	Benevento	BN	Sant'Arcangelo Trimonte	41,17845262	14,93417503	0
+6042020	ITA	15	Campania	62	Benevento	BN	Sassinoro	41,37489736	14,64936836	2
+6042020	ITA	15	Campania	62	Benevento	BN	Solopaca	41,19091587	14,55178489	0
+6042020	ITA	15	Campania	62	Benevento	BN	Telese Terme	41,20702580	14,50972784	1
+6042020	ITA	15	Campania	62	Benevento	BN	Tocco Caudio	41,11834724	14,60739859	0
+6042020	ITA	15	Campania	62	Benevento	BN	Torrecuso	41,19447803	14,69962370	2
+6042020	ITA	15	Campania	62	Benevento	BN	Vitulano	41,17346428	14,62504744	1
