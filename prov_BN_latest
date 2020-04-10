@@ -6,7 +6,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaia	41,03275667	14,55005492	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaise	41,02238129	14,74890863	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Baselice	41,39120523	14,94057298	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	28
+8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	29
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bonea	41,07893528	14,61078059	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bucciano	41,08272809	14,57902822	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Buonalbergo	41,21869910	14,97388129	0
@@ -20,7 +20,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Castelvenere	41,23129994	14,55523365	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Castelvetere in Val Fortore	41,43832974	14,93572133	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Cautano	41,14850692	14,61999239	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Ceppaloni	41,05536607	14,74683945	5
+8apr2020	ITA	15	Campania	62	Benevento	BN	Ceppaloni	41,05536607	14,74683945	6
 8apr2020	ITA	15	Campania	62	Benevento	BN	Cerreto Sannita	41,29766346	14,58220084	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Circello	41,34851219	14,79222412	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Colle Sannita	41,38399170	14,85587732	0
@@ -66,12 +66,12 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Martino Sannita	41,05630188	14,83522257	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Nazzaro	41,05288231	14,85853616	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Nicola Manfredi	41,09508809	14,84184260	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	San Salvatore Telesino	41,23540004	14,49822876	4
+8apr2020	ITA	15	Campania	62	Benevento	BN	San Salvatore Telesino	41,23540004	14,49822876	5
 8apr2020	ITA	15	Campania	62	Benevento	BN	Santa Croce del Sannio	41,39009832	14,73704084	1
-8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Agata de' Goti	41,10082146	14,49517099	2
+8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Agata de' Goti	41,10082146	14,49517099	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Angelo a Cupolo	41,07906250	14,80243462	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Arcangelo Trimonte	41,17845262	14,93417503	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Sassinoro	41,37489736	14,64936836	1
+8apr2020	ITA	15	Campania	62	Benevento	BN	Sassinoro	41,37489736	14,64936836	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Solopaca	41,19091587	14,55178489	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Telese Terme	41,20702580	14,50972784	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Tocco Caudio	41,11834724	14,60739859	0
