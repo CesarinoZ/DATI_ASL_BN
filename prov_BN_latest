@@ -6,7 +6,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaia	41,03275667	14,55005492	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaise	41,02238129	14,74890863	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Baselice	41,39120523	14,94057298	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	29
+8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	31
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bonea	41,07893528	14,61078059	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bucciano	41,08272809	14,57902822	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Buonalbergo	41,21869910	14,97388129	0
@@ -20,7 +20,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Castelvenere	41,23129994	14,55523365	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Castelvetere in Val Fortore	41,43832974	14,93572133	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Cautano	41,14850692	14,61999239	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Ceppaloni	41,05536607	14,74683945	6
+8apr2020	ITA	15	Campania	62	Benevento	BN	Ceppaloni	41,05536607	14,74683945	7
 8apr2020	ITA	15	Campania	62	Benevento	BN	Cerreto Sannita	41,29766346	14,58220084	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Circello	41,34851219	14,79222412	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Colle Sannita	41,38399170	14,85587732	0
@@ -46,7 +46,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Paduli	41,17636144	14,89843099	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pago Veiano	41,23629132	14,87719478	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pannarano	41,00356093	14,69529345	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Paolisi	41,03448185	14,57330251	20
+8apr2020	ITA	15	Campania	62	Benevento	BN	Paolisi	41,03448185	14,57330251	19
 8apr2020	ITA	15	Campania	62	Benevento	BN	Paupisi	41,20409287	14,64798894	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pesco Sannita	41,24212503	14,82393032	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pietraroja	41,35210050	14,57275060	0
