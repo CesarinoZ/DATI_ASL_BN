@@ -25,7 +25,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Circello	41,34851219	14,79222412	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Colle Sannita	41,38399170	14,85587732	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Cusano Mutri	41,34082517	14,50544487	8
-8apr2020	ITA	15	Campania	62	Benevento	BN	Dugenta	41,13959427	14,45420357	1
+8apr2020	ITA	15	Campania	62	Benevento	BN	Dugenta	41,13959427	14,45420357	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Durazzano	41,05888670	14,45298556	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Faicchio	41,26742840	14,47103882	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Foglianise	41,15988914	14,68503951	1
@@ -33,7 +33,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Forchia	41,03109206	14,53093092	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Fragneto l'Abate	41,27524690	14,78018014	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Fragneto Monforte	41,23942609	14,75534762	1
-8apr2020	ITA	15	Campania	62	Benevento	BN	Frasso Telesino	41,14616309	14,53063615	0
+8apr2020	ITA	15	Campania	62	Benevento	BN	Frasso Telesino	41,14616309	14,53063615	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Ginestra degli Schiavoni	41,28167887	15,04709280	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Guardia Sanframondi	41,24594697	14,59088980	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Limatola	41,13476142	14,39738915	0
@@ -41,7 +41,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Moiano	41,08119962	14,53967098	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Molinara	41,31135236	14,91679765	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Montefalcone di Val Fortore	41,32459567	15,02324949	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Montesarchio	41,06904084	14,65137823	1
+8apr2020	ITA	15	Campania	62	Benevento	BN	Montesarchio	41,06904084	14,65137823	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Morcone	41,34827185	14,69327071	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Paduli	41,17636144	14,89843099	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pago Veiano	41,23629132	14,87719478	3
