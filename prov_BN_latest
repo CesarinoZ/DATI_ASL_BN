@@ -2,11 +2,11 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Airola	41,05778997	14,56409597	8
 8apr2020	ITA	15	Campania	62	Benevento	BN	Amorosi	41,20314241	14,46534071	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Apice	41,12857866	14,95736290	2
-8apr2020	ITA	15	Campania	62	Benevento	BN	Apollosa	41,09039218	14,70300461	2
+8apr2020	ITA	15	Campania	62	Benevento	BN	Apollosa	41,09039218	14,70300461	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaia	41,03275667	14,55005492	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Arpaise	41,02238129	14,74890863	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Baselice	41,39120523	14,94057298	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	31
+8apr2020	ITA	15	Campania	62	Benevento	BN	Benevento	41,14925083	14,78305825	30
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bonea	41,07893528	14,61078059	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Bucciano	41,08272809	14,57902822	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Buonalbergo	41,21869910	14,97388129	0
@@ -35,7 +35,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Fragneto Monforte	41,23942609	14,75534762	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Frasso Telesino	41,14616309	14,53063615	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Ginestra degli Schiavoni	41,28167887	15,04709280	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Guardia Sanframondi	41,24594697	14,59088980	2
+8apr2020	ITA	15	Campania	62	Benevento	BN	Guardia Sanframondi	41,24594697	14,59088980	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Limatola	41,13476142	14,39738915	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Melizzano	41,16935753	14,49346601	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Moiano	41,08119962	14,53967098	1
@@ -46,7 +46,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Paduli	41,17636144	14,89843099	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pago Veiano	41,23629132	14,87719478	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pannarano	41,00356093	14,69529345	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Paolisi	41,03448185	14,57330251	19
+8apr2020	ITA	15	Campania	62	Benevento	BN	Paolisi	41,03448185	14,57330251	18
 8apr2020	ITA	15	Campania	62	Benevento	BN	Paupisi	41,20409287	14,64798894	2
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pesco Sannita	41,24212503	14,82393032	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Pietraroja	41,35210050	14,57275060	0
@@ -66,7 +66,7 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Martino Sannita	41,05630188	14,83522257	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Nazzaro	41,05288231	14,85853616	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	San Nicola Manfredi	41,09508809	14,84184260	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	San Salvatore Telesino	41,23540004	14,49822876	5
+8apr2020	ITA	15	Campania	62	Benevento	BN	San Salvatore Telesino	41,23540004	14,49822876	4
 8apr2020	ITA	15	Campania	62	Benevento	BN	Santa Croce del Sannio	41,39009832	14,73704084	1
 8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Agata de' Goti	41,10082146	14,49517099	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Sant'Angelo a Cupolo	41,07906250	14,80243462	3
@@ -75,6 +75,6 @@ data	stato	codice_regione	denominazione_regione	codice_provincia	denominazione_p
 8apr2020	ITA	15	Campania	62	Benevento	BN	Solopaca	41,19091587	14,55178489	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Telese Terme	41,20702580	14,50972784	0
 8apr2020	ITA	15	Campania	62	Benevento	BN	Tocco Caudio	41,11834724	14,60739859	0
-8apr2020	ITA	15	Campania	62	Benevento	BN	Torrecuso	41,19447803	14,69962370	2
+8apr2020	ITA	15	Campania	62	Benevento	BN	Torrecuso	41,19447803	14,69962370	3
 8apr2020	ITA	15	Campania	62	Benevento	BN	Vitulano	41,17346428	14,62504744	1
 
